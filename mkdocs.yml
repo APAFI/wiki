@@ -1,0 +1,69 @@
+nav:
+  - Accueil: index.md
+
+
+
+
+site_name: APAFI
+copyright: Copyright &copy; 2023 APAFI
+extra:
+  homepage: https://apafi.fr/
+  generator: false
+  social :
+    - icon: simple/discord
+      link: https://discord.gg/#
+    - icon: fontawesome/brands/github
+      link: https://github.com/apafi
+
+theme:
+  font:
+    text: Nunito
+  favicon: assets/images/favicon.png
+  logo : assets/images/favicon.png
+  features:
+    - navigation.footer
+    - navigation.top
+    - navigation.path
+    - navigation.expand
+    - navigation.instant
+    - navigation.tabs
+  name: material
+  language: fr
+  palette: 
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/lightbulb
+      name: Mode sombre
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/lightbulb-outline
+      name: Mode clair
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
