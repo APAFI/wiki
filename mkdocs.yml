@@ -1,11 +1,15 @@
 nav:
   - Accueil: index.md
+  - Nos actions: 
+    - actions/index.md
+    - Formations: actions/formations.md
+    - Projets: actions/projets.md
 
 
 
 
 site_name: APAFI
-copyright: Copyright &copy; 2023 APAFI
+copyright: Copyright &copy; 2023 Association de Partage et d'Accompagnement pour la Formation Informatique [APAFI]
 extra:
   homepage: https://apafi.fr/
   generator: false
