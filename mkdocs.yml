@@ -4,6 +4,9 @@ nav:
     - actions/index.md
     - Formations: actions/formations.md
     - Projets: actions/projets.md
+  - Notre implantation:
+    - implantation/index.md
+  - Contact: contact.md
 
 
 
@@ -14,16 +17,21 @@ extra:
   homepage: https://apafi.fr/
   generator: false
   social :
+    - icon: material/email-outline
+      link: mailto:contact@apafi.fr?subject=[APAFI] - Contact
+      name: Contact mail - contact@apafi.fr
     - icon: simple/discord
       link: https://discord.gg/#
+      name: Discord (à venir)
     - icon: fontawesome/brands/github
       link: https://github.com/apafi
+      name: GitHub APAFI
 
 theme:
   font:
     text: Nunito
-  favicon: assets/images/favicon.png
-  logo : assets/images/favicon.png
+  favicon: assets/images/FI_high_WoB_sf.png
+  logo : assets/images/LOGO_high_WoB_sf.png
   features:
     - navigation.footer
     - navigation.top
