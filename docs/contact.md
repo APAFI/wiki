@@ -4,4 +4,4 @@
     Contactez-nous par mail : __contact@apafi.fr__
 
 !!! info "RECRUTEMENT"
-    Vous souhaitez rejoindre l'association en tant que bénévole ? __recrutement@apafi.fr__
+    Vous souhaitez rejoindre l'association en tant que bénévole ? __contact@apafi.fr__

@@ -26,6 +26,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/apafi
       name: GitHub APAFI
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/asso-apafi
+      name: LinkedIn APAFI
 
 theme:
   font:
