@@ -4,7 +4,7 @@
     Site encore en développement, mais quelques infos sont déjà présentes ! N'hésitez pas à découvrir notre asso :)
 APAFI est une association de Loi 1901, fondée en 2023 par un groupe de 5 étudiants en informatique.
 
-Notre objectif est de partager les connaissances du monde numérique au plus grand nombre, en proposant des sessions de formations, sensibilisations et multiples activités permettant à tous d’appréhender au mieux le monde numérique !
+Notre objectif est de partager les connaissances du monde numérique au plus grand nombre, en proposant des sessions d'accompagnements, sensibilisations et multiples activités permettant à tous d’appréhender au mieux le monde numérique !
 
 ## Nos domaines d'expertise :
 
@@ -27,4 +27,4 @@ Notre objectif est de partager les connaissances du monde numérique au plus gra
 </div>
 
 ## Notre Mindset
-L'apprentissage par le jeu (gamification des formations)
+L'apprentissage par le jeu

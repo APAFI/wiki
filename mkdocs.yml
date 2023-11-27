@@ -2,11 +2,13 @@ nav:
   - Accueil: index.md
   - Nos actions: 
     - actions/index.md
-    - Formations: actions/formations.md
-    - Projets: actions/projets.md
-  - Notre implantation:
-    - implantation/index.md
-  - Contact: contact.md
+  - L'Asso:
+    - l_asso/index.md
+    - Implantation en France: l_asso/implantation.md
+    - Nous contacter: l_asso/contact.md
+  - Mentions légales:
+    - mentions-legales/index.md
+    - Politique de confidentialité: mentions-legales/confidentialite.md
 
 
 
@@ -15,14 +17,14 @@ site_name: APAFI
 copyright: Copyright &copy; 2023 Association de Partage et d'Accompagnement pour la Formation Informatique [APAFI]
 extra:
   homepage: https://apafi.fr/
-  generator: false
+  generator: true
   social :
     - icon: material/email-outline
       link: mailto:contact@apafi.fr?subject=[APAFI] - Contact
       name: Contact mail - contact@apafi.fr
-    - icon: simple/discord
-      link: https://discord.gg/#
-      name: Discord (à venir)
+    #- icon: simple/discord
+    #  link: https://discord.gg/#
+    #  name: Discord (à venir)
     - icon: fontawesome/brands/github
       link: https://github.com/apafi
       name: GitHub APAFI
@@ -36,7 +38,7 @@ theme:
   favicon: assets/images/FI_high_WoB_sf.png
   logo : assets/images/LOGO_high_WoB_sf.png
   features:
-    - navigation.footer
+  #  - navigation.footer
     - navigation.top
     - navigation.path
     - navigation.expand
