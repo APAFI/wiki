@@ -17,7 +17,7 @@ site_name: APAFI
 copyright: Copyright &copy; 2023 Association de Partage et d'Accompagnement pour la Formation Informatique [APAFI]
 extra:
   homepage: https://apafi.fr/
-  generator: true
+  generator: false
   social :
     - icon: material/email-outline
       link: mailto:contact@apafi.fr?subject=[APAFI] - Contact
