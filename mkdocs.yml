@@ -1,6 +1,7 @@
 nav:
   - Accueil: index.md
-  - Nos actions: 
+  - Etude de marché: etude/index.md
+  - Nos actions:
     - actions/index.md
   - L'Asso:
     - l_asso/index.md
