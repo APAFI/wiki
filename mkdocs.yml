@@ -17,12 +17,12 @@ nav:
 site_name: APAFI
 copyright: Copyright &copy; 2023 Association de Partage et d'Accompagnement pour la Formation Informatique [APAFI]
 extra:
-  homepage: https://apafi.fr/
-  generator: true
+  homepage: /
+  generator: false
   social :
     - icon: material/email-outline
-      link: mailto:contact@apafi.fr?subject=[APAFI] - Contact
-      name: Contact mail - contact@apafi.fr
+      link: /l_asso/contact
+      name: Contactez-nous
     #- icon: simple/discord
     #  link: https://discord.gg/#
     #  name: Discord (à venir)
@@ -32,6 +32,9 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/asso-apafi
       name: LinkedIn APAFI
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/asso.apafi/
+      name: Instagram APAFI
 
 theme:
   font:
