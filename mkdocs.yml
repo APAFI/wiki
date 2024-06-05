@@ -5,6 +5,7 @@ nav:
     - actions/index.md
   - L'Asso:
     - l_asso/index.md
+    - Dons de biens: l_asso/dons.md
     - Implantation en France: l_asso/implantation.md
     - Nous contacter: l_asso/contact.md
   - Mentions légales:
